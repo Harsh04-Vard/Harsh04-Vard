@@ -92,7 +92,7 @@
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=Harsh04-Vard&show_icons=true&theme=tokyonight" height="165"/>
+  <img src="https://awesome-github-stats.azurewebsites.net/user-stats/Harsh04-Vard?theme=tokyonight" height="165"/>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=Harsh04-Vard&theme=tokyonight" height="165"/>
 </p>
 
