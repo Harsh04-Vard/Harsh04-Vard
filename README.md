@@ -39,27 +39,28 @@
 
 ## 📌 Key Projects (Placement Focused)
 
-### 🎮 Hand Gesture Controlled Game
+### 🤖 AI Interview Marketplace
 
-* Built a **real-time interactive game** using computer vision
-* Implemented gesture recognition with **MediaPipe + OpenCV**
-* Designed modular OOP structure (clean, scalable code)
-
----
-
-### 🧍 Human Motion Tracking System
-
-* Developed **real-time pose estimation system**
-* Applications: healthcare monitoring, sports analytics
-* Optimized for stable detection under different conditions
+* Built a **full-stack AI-powered mock interview platform** using Next.js and Supabase
+* Integrated **LLaMA-based AI (Groq API)** for generating interview questions
+* Implemented **real-time video interviews**, authentication, and email notifications
 
 ---
 
-### 📰 News Headline Website
+### 💰 Price Alert – Product Price Tracker
 
-* Built responsive web app using **React + APIs**
-* Implemented **client-side caching** for performance
-* Clean UI with real-time updates
+* Developed a **full-stack price tracking system** using Next.js, Supabase, and Tailwind CSS
+* Implemented **automated price monitoring** using cron jobs and web scraping (Firecrawl API)
+* Designed backend logic to **compare prices and trigger email alerts** on price drops
+
+---
+
+### 🎬 Movie Recommender System
+
+* Built a **content-based recommendation engine** using cosine similarity
+* Processed movie dataset and generated recommendations based on user input
+* Developed an interactive UI using **Streamlit** with dynamic poster fetching via TMDB API
+
 
 ---
 
