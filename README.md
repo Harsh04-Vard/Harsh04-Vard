@@ -11,7 +11,7 @@
 
 * 🎓 B.Tech ECE @ **NIT Kurukshetra (2023–2027)**
 * 📊 CGPA: **8.51 / 10**
-* 💻 Solved **550+ DSA problems**
+* 💻 Solved **700+ DSA problems**
 * 🤖 Strong interest in **IoT, Computer Vision & Embedded Systems**
 * 🎯 Goal: **Software + Core Tech roles (SDE / IoT / Embedded)**
 
@@ -84,7 +84,7 @@
 
 ## 🏆 Achievements
 
-* 💻 Solved **550+ DSA problems (LeetCode, GFG, CodeChef)**
+* 💻 Solved **700+ DSA problems (LeetCode, GFG, CodeChef)**
 * 🥈 **District Rank 2 – CBSE Class XII**
 * 🎯 Active member of **MICROBUS (ECE Society), NIT KKR**
 
